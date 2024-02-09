@@ -1,0 +1,55 @@
+{
+	"Header.Item1": "About me",
+	"Header.Item2": "Experience",
+	"Header.Item3": "Work",
+	"Header.Item4": "Testimonial",
+	"Header.Item5": "Contact",
+	"Header.cvBtn": "Resume",
+	"Header.cvName": "Bhargava_Chary_Yaswada_Resume.pdf",
+	"Banner.Pretitle": "Hello! My name is",
+	"Banner.Description": "With over <span class='underline'>five years</span> of professional experience as a software engineer, I specialize in crafting innovative systems, interfaces, and technological solutions. My expertise extends to developing efficient bots and creating solutions that seamlessly align with project requirements. I take pride in my capability to translate complex project needs into visually appealing and user-friendly solutions. Currently, I am contributing my skills and knowledge at <span class='underline'>SaiSir Inc</span>, where my focus is on building accessible and human-centered products.",
+	"Banner.ActionBtn": "Get in touch",
+	"AboutMe.Title": "About me",
+	"AboutMe.Paragraphs": [
+		"Hello! My name is Bhargava Chary Yaswada, a Master's graduate in Computer Science who's currently diving deep into Cybersecurity and Full Stack Development realms. My journey has been marked by involvement in numerous ambitious projects, where I've championed the causes of responsive designs, performance enhancement, and seamless collaboration across different functions. I take pride in transforming project visions into tangible realities that not only captivate but function with excellence.",
+		"On any given day, I'm the bridge between backend engineers and the end product, transforming wireframes into interactive experiences and tackling bugs alongside our QA team. Teamwork, accountability, and mentorship are the cornerstones of my professional ethos. I'm always on the lookout for opportunities to elevate my team's skills alongside my own.",
+		"My toolkit is brimming with an array of technologies, honed through rigorous training and hands-on application, ready to tackle the challenges ahead. (but are not limited to):"
+	],
+	"AboutMe.conclude": [
+		"And that's a little snapshot of who I am. I'm eagerly looking forward to applying my expertise and enthusiasm to more groundbreaking projects!"
+	],
+	"Experience.Title": "Where I've Worked",
+	"Experience.Jobs": [
+		{
+			"Tab": "Morgan Stanley",
+			"Title": "Software Developer",
+			"Date": "Sep 2021 - May 2022",
+			"Description": [
+				"Developed a full-stack application that heightened backend-to-frontend data integration efficiency by 25%, utilizing RESTful services to seamlessly connect Java and Angular.",
+				"Engineered a microservices architecture to enhance web applications, focusing on modularity and high availability, which improved runtime efficiency by 40%.",
+				"Enhanced security measures by 50% through the integration of Angular's native sanitization to automatically shield against XSS attacks.",
+				"Initiated the creation of a reusable component library with Angular Material, significantly boosting the development velocity for new features by promoting efficiency and code maintainability, which also contributed to a 40% runtime improvement.",
+				"Authored JUnit tests for critical application logic, achieving a 90% coverage rate and ensuring a robust code quality standard."
+			]
+		},
+
+		{
+			"Tab": "Instancy",
+			"Title": "Front-end Developer",
+			"Date": "May 2018 - Aug 2021",
+			"Description": [
+				"Designed an optimized MySQL database schema and fine-tuned queries, which enhanced data retrieval speeds by 30% for analytics dashboards and reports.",
+				"Further improved system responsiveness by 25% by engineering and deploying REST APIs with Amazon API Gateway, Lambda, and RDS.",
+				"Executed comprehensive load testing and performance optimizations on web applications, identifying and mitigating bottlenecks, which led to a 20% boost in system performance."
+			]
+		}
+	],
+	"Contact.Pretitle": "What’s Next",
+	"Contact.Title": "Get in touch!",
+	"Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+	"Contact.Btn": "Say Hello",
+	"Testimonial.Title": "My clients' impressions of me",
+	"Testimonial.Items": [
+		
+	]
+}
